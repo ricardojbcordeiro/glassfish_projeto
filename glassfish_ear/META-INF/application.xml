@@ -6,5 +6,8 @@
  		<web-uri>glassfish_web.war</web-uri>
  		<context-root>glassfish_web</context-root>
  	</web>
+ </module>
+ <module id="Module_1549501817209">
+ 	<ejb>glassfish_ejb.jar</ejb>
  </module> 
  </application> 

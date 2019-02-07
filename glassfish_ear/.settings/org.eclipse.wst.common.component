@@ -9,5 +9,8 @@
             <dependent-object>Module_1549501817209</dependent-object>
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="glassfish_java.jar" deploy-path="/" handle="module:/resource/glassfish_java/glassfish_java">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
     </wb-module>
 </project-modules>

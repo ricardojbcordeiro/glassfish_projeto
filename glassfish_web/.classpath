@@ -18,5 +18,7 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/glassfish_ejb"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/glassfish_java"/>
 	<classpathentry kind="output" path="WebContent/WEB-INF/classes"/>
 </classpath>

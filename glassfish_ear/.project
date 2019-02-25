@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>glassfish_ear</name>
+	<name>estudo_ear</name>
 	<comment></comment>
 	<projects>
-		<project>glassfish_web</project>
-		<project>glassfish_ejb</project>
-		<project>glassfish_java</project>
+		<project>estudo_ejb</project>
+		<project>estudo_java</project>
+		<project>estudo_web</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

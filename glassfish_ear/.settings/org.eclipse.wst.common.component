@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="glassfish_ear">
+    <wb-module deploy-name="estudo_ear">
         <wb-resource deploy-path="/" source-path="/" tag="defaultRootSource"/>
-        <dependent-module archiveName="glassfish_web.war" deploy-path="/" handle="module:/resource/glassfish_web/glassfish_web">
-            <dependent-object>Module_1549499573416</dependent-object>
+        <dependent-module archiveName="estudo_ejb.jar" deploy-path="/" handle="module:/resource/estudo_ejb/estudo_ejb">
+            <dependent-object>Module_1551010968952</dependent-object>
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="glassfish_ejb.jar" deploy-path="/" handle="module:/resource/glassfish_ejb/glassfish_ejb">
-            <dependent-object>Module_1549501817209</dependent-object>
+        <dependent-module archiveName="estudo_java.jar" deploy-path="/lib" handle="module:/resource/estudo_java/estudo_java">
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="glassfish_java.jar" deploy-path="/" handle="module:/resource/glassfish_java/glassfish_java">
+        <dependent-module archiveName="estudo_web.war" deploy-path="/" handle="module:/resource/estudo_web/estudo_web">
+            <dependent-object>Module_1551011005162</dependent-object>
             <dependency-type>uses</dependency-type>
         </dependent-module>
     </wb-module>

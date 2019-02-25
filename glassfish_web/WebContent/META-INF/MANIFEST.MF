@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
-Class-Path: glassfish_ejb.jar 
- glassfish_java.jar
+Class-Path: estudo_ejb.jar 
+ estudo_java.jar
 
